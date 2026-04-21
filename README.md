@@ -1,4 +1,7 @@
-Google Search App: `intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end`
+[Cirrus CI](https://github.com/marketplace/cirrus-ci)
+
+
+.[Google Search App](intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end).
 
 [Set Screen Lock](intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end)
 [Samsung My Files](intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end)
